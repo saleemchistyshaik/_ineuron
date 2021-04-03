@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Q1. 1.What are the Boolean data type's two values? How do you go about writing them?
+ ##Q1. 1.What are the Boolean data type's two values? How do you go about writing them?
 A.  The Boolean data type is either True or False. In Python Boolean data or Boolean variables are defined by True or False as keywords.
 
 Example:
@@ -224,7 +221,7 @@ Combination of both OR, NOT AND:
       (Not(False) and True) and (False or not(True)                        False
 
 
-# # Q4. What are the values of the following expressions?
+# Q4. What are the values of the following expressions?
 A..                    (5 > 4) and ( 3 == 5) ------ False
                      Not(5>4)  ------                   False
                       (5 > 4) or (3 == 5)  -------- True
