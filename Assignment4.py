@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # 1.What exactly is []?
+ # 1.What exactly is []?
 A.It is called to be as empty list or list value, which is a list value that contains no items.
 # # 2.In a list of values stored in a variable called spam, how would you assign the value 'hello' as   the third value? (Assume [2, 4, 6, 8, 10] are in spam.)
 A.  spam[2] = ‘hello’
