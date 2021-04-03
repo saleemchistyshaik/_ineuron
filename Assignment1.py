@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-# Q1.What are the differences between operators and values in the following
+ Q1.What are the differences between operators and values in the following
 *
 'hello'
 -87.8
