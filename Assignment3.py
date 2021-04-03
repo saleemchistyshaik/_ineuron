@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Q1.Why are functions advantageous to have in your programs?
+ # Q1.Why are functions advantageous to have in your programs?
 A.Having of functions in programs is quite advantage because functions reduce the need for   
  duplicate code . This makes programes shorter , easier to read and easier to update.
 
